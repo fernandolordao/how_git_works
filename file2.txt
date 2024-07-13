@@ -1,4 +1,4 @@
 line #1
-line #2 fixing this line
+line #2 (included in upstream) fixing this line
 line #3
 line #4
