@@ -1,4 +1,5 @@
 line #1
-line #2 (included in upstream) fixing this line
-line #3
+line #2 (included in upstream) fixing (included in fork) this line
+line #3 included in forked repo & mere change (included during merge conflict resolution)
 line #4
+
