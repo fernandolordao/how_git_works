@@ -1,4 +1,5 @@
 line #1
 line #2 (included in upstream) fixing this line
 line #3
-line #4
+line #4 (change in original nov29)
+line #5 included in original (nov29)
